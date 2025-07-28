@@ -5,15 +5,16 @@ Our study refines the Flood Fill algorithm to make it suitable for application t
 
 # Files
 The repository contains the following files:
-* "code_name"
+* "Curvature_extraction.py"
 
 # Python Libraries
 Our research utilizes various Python libraries that need to be installed:
 * NumPy
 * Matplotlib
-* Itertools
+* Scipy
 * Sys
 * Time
+* Itertools
 
 # Contact Information
 * Name: Soo Hwan Park
