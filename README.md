@@ -6,6 +6,8 @@ Our study refines the Flood Fill algorithm to make it suitable for application t
 # Files
 The repository contains the following files:
 * "Curvature_extraction.py"
+* "Make_guideline.py"
+* "Intergrated_code.py"
 
 # Python Libraries
 Our research utilizes various Python libraries that need to be installed:
