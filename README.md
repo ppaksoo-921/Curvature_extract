@@ -25,9 +25,7 @@ Our research utilizes various Python libraries that need to be installed:
 * NumPy
 * Matplotlib
 * Scipy
-* Sys
-* Time
-* Itertools
+* (Additionally uses standard modules: sys, time, itertools)
 
 # Contact Information
 * Name: Soo Hwan Park
