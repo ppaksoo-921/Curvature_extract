@@ -1,9 +1,4 @@
 # Curvature_extract
-Welcome to the GitHub repository pertaining to our journal: curvature computation of image gather for semi-automated depth image quality control.
-
-Our study refines the Flood Fill algorithm to make it suitable for application to raw data, enabling the extraction of reflection signal curvature from image gathers.
-
-# Curvature_extract
 Welcome to the GitHub repository associated with our ongoing study:  
 **“Curvature Extraction Algorithm for Seismic Image and Velocity Model Evaluation: Application to CMP and Angle Gathers.”**
 
