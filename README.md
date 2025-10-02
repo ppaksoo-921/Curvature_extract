@@ -19,7 +19,7 @@ Our research utilizes various Python libraries that need to be installed:
 # Data availability
 Due to data sharing restrictions, the CMP dataset cannot be provided.
 
-However, to ensure reproducibility, we instead provide the synthetic angle-domain common image gather dataset used for algorithm validation in Data_angle_gather.zip.
+However, to ensure reproducibility, we instead provide the synthetic angle-domain common image gather dataset used for algorithm validation in **Data_angle_gather.zip**.
 
 # Usage
 1. Download and extract **Data_angle_gather.zip**.  
