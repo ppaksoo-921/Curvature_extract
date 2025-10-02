@@ -3,6 +3,16 @@ Welcome to the GitHub repository pertaining to our journal: curvature computatio
 
 Our study refines the Flood Fill algorithm to make it suitable for application to raw data, enabling the extraction of reflection signal curvature from image gathers.
 
+# Curvature_extract
+Welcome to the GitHub repository accompanying our journal: **Curvature computation of image gathers for semi-automated depth image quality control**.
+
+Seismic images and velocity models are essential for subsurface interpretation, but quantitative validation is necessary for more accurate results. Traditional Radon transform methods for curvature estimation often suffer from limitations on real data, such as non-uniqueness, energy smearing, and event overlap.  
+
+In this study, we propose a novel algorithm that adapts the **Flood Fill** technique, commonly used in computer graphics, to isolate individual reflection events from seismic gathers. Curvature is then estimated by computing the quadratic coefficient in a least-squares fit. The method has been validated on both:
+- **Normal moveout-corrected CMP gathers** (Yeongil Bay field data)  
+- **Angle-domain common image gathers** (synthetic velocity model)  
+
+
 # Files
 The repository contains the following files:
 * Extract_curvature_Anglegather.py
