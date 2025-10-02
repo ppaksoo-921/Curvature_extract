@@ -10,11 +10,25 @@ The repository contains the following files:
 * Various angle gather data files used in our research
 
 # Python Libraries
-Our research utilizes various Python libraries that need to be installed:
-* NumPy
-* Matplotlib
-* Scipy
-* (Additionally uses standard modules: sys, time, itertools)
+
+The following Python libraries are required to run the code:
+
+### Core libraries
+These are essential for numerical computation and visualization:
+- **NumPy** (`import numpy as np`) – array operations and mathematical functions  
+- **Matplotlib** (`import matplotlib.pyplot as plt`) – plotting and visualization  
+
+### Utility libraries
+These are used for general-purpose support:
+- **os** – file system operations (directory creation, path manipulation)  
+- **sys** – system configuration (e.g., recursion limit setting)  
+- **time** – execution time measurement  
+- **itertools** (`from itertools import product`) – combinatorial operations  
+
+### Optional
+These libraries provide additional functionality but are not strictly required:
+- **PIL** (`from PIL import Image`) – image processing  
+- **matplotlib.font_manager** (`import matplotlib.font_manager as fm`) – font management for custom plots  
 
 # Data availability
 Due to data sharing restrictions, the CMP dataset cannot be provided.
