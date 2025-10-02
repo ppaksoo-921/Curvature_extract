@@ -4,7 +4,7 @@ Welcome to the GitHub repository associated with our ongoing study:
 
 This repository contains the implementation and example data accompanying the study, which is currently under preparation for publication.
 
-In this study, we propose a novel algorithm that adapts the **Flood Fill** technique, commonly used in computer graphics, to isolate individual reflection events from seismic gathers. Curvature is then estimated by computing the quadratic coefficient in a least-squares fit. The method has been validated on both:
+In this study, we propose a novel algorithm that adapts the Flood Fill technique, commonly used in computer graphics, to isolate individual reflection events from seismic gathers. Curvature is then estimated by computing the quadratic coefficient in a least-squares fit. The method has been validated on both:
 - **Normal moveout-corrected CMP gathers** (Yeongil Bay field data)  
 - **Angle-domain common image gathers** (synthetic velocity model)  
 
