@@ -16,7 +16,7 @@ In this study, we propose a novel algorithm that adapts the **Flood Fill** techn
 # Files
 The repository contains the following files:
 * `Extract_curvature_Anglegather.py` – main script for curvature extraction on angle gathers
-* `Extract_curvature_CMPgather.py` – script for CMP gather curvature analysis (if applicable)
+* `Extract_curvature_CMPgather.py` – main script for curvature extraction on CMP gather
 * `Data_angle_gather.zip` – synthetic angle gather dataset used for algorithm validation
 
 
