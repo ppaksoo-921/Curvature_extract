@@ -5,9 +5,9 @@ Our study refines the Flood Fill algorithm to make it suitable for application t
 
 # Files
 The repository contains the following files:
-* "Extract_curvature_Anglegather.py"
-* "Extract_curvature_Anglegather.py"
-* "Various angle gather data files used in our research"
+* Extract_curvature_Anglegather.py
+* Extract_curvature_Anglegather.py
+* Various angle gather data files used in our research
 
 # Python Libraries
 Our research utilizes various Python libraries that need to be installed:
@@ -21,5 +21,3 @@ Our research utilizes various Python libraries that need to be installed:
 # Contact Information
 * Name: Soo Hwan Park
 * Email: ppaksoo@snu.ac.kr
-
-# Acknowledgements
