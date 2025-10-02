@@ -35,7 +35,7 @@ OUTPUT_DIR = f"c:/Users/owner/Desktop/test/Result_angle_gather/{folder}"
 # (e.g., "/home/user/outputs" or "./results")
 
 INPUT_DIR = f"c:/Users/owner/Desktop/test"
-# Enter the path/location of 'Data_angle_gather.zip'.
+# Enter the path/location of 'Data_angle_gather'.
 # (e.g., "/home/user/data/Data_angle_gather.zip" or "./Data_angle_gather.zip")
 
 
@@ -733,3 +733,4 @@ create_curvature_visualization()
 
 
 print("\nCurvature analysis is complete!")
+
