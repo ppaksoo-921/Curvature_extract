@@ -9,6 +9,11 @@ The repository contains the following files:
 * Extract_curvature_Anglegather.py
 * Various angle gather data files used in our research
 
+# Data availability
+Due to data sharing restrictions, the CMP dataset cannot be provided.  
+However, to ensure reproducibility, we instead provide the synthetic angle-domain common image gather dataset used for algorithm validation in Data_angle_gather.zip.
+
+
 # Python Libraries
 Our research utilizes various Python libraries that need to be installed:
 * NumPy
